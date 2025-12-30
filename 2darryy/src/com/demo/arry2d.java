@@ -10,7 +10,9 @@ public class arry2d {
 		
 		
 //		class i/p:
+//		System.out.println("Enter the number of class :");
 		for(int i=0;i<3;i++) {
+//			System.out.println("Enter the number of student:");
 			for(int j=0;j<5;j++) {
 				System.out.println("Please enter the marks of class student " +""+ i+ " " + j);
 	     		a[i][j]=sc.nextInt();
